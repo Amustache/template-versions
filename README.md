@@ -15,7 +15,6 @@ In order to use it, follow this simple steps:
 - Enter the name of the target repository `${instanceName}-versions` and the target organization
 - Edit this file by clicking on the ![Edit Button](https://raw.githubusercontent.com/primer/octicons/main/icons/pencil-24.svg "Look, on the right of the title README.md") icon at the top right of this file *(This icon is visible if you have the right to modify this repo)*
 - Remove this paragraph and replace the `${instanceName}` and `${instanceMaintainer}` in the documentation
-- Add any documentation you find necesary
 
 You can also check the complete doc: [How to use a template on Github](https://docs.github.com/en/github-ae@latest/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
