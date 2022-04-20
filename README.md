@@ -7,14 +7,15 @@ You can find the documentation by following the link in the “About” section 
 
 This is a template for the `versions` repository of [Open Terms Archive](https://opentermsarchive.org)
 
-**NOTE**: When creating from this template, please keep the naming structure of `${instanceName}-versions` in order to keep consistency across repos and organisations. 
+**NOTE**: When creating from this template, please keep the naming structure of `${instanceName}-versions` in order to keep consistency across repos and organisations.
 
 In order to use it, follow this simple steps:
 - Navigate to https://github.com/OpenTermsArchive/template-versions
 - Click on `Use this template`
 - Enter the name of the target repository `${instanceName}-versions` and the target organization
 - Edit this file by clicking on the ![Edit Button](https://raw.githubusercontent.com/primer/octicons/main/icons/pencil-24.svg "Look, on the right of the title README.md") icon at the top right of this file *(This icon is visible if you have the right to modify this repo)*
-- Remove this paragraph, change the ${instanceName} in the title and add any documentation you find necesary
+- Remove this paragraph and replace the `${instanceName}` and `${instanceMaintainer}` in the documentation
+- Add any documentation you find necesary
 
 You can also check the complete doc: [How to use a template on Github](https://docs.github.com/en/github-ae@latest/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
